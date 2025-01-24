@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body align = "center">
+    <div style="padding: 0px;">
+    <img src="001.jpg" alt="1 error" width="300px" height="150px" style="padding: 0px;">
+    <p style="color: red;">Tadepalligudem-534101 www.sasi.ac.in</p>
+   <img src="003.jpg" width="200px"></div>
+    <img src="3.jpg" alt="2.error" height="200px">
+    <h3 style="color: green;">DAMMA BALAGANESH</h3>
+    <P  style="color: blue;"><b>B.Tech-</b>
+        <p1 style="color: red;">CSE</p1>
+    </P>
+
+    <h4 style="color: blue;">23K61A0538</h4></p>
+    <img src="002.jpg.gif" alt="3.error">
+    <p><b style="color: red;">Aadhar No:</b>840865539045   .  .   .<b style="color: red;">valid:</b>2023-27 
+    <p><b style="color: red;">Father:</b>DAMMA SATYANARAYANA</p>
+    <P><b style="color: red;">Village:</b>DEVA</P>
+    <P><b style="color: red;">Cell:</b>8374768545</P>
+</body>
+</html>
